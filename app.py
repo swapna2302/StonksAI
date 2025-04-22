@@ -150,7 +150,7 @@ def rag_chatbot_response(user_input, stock_analysis, lstm_predictions, qa_chain)
 # --------------------------------------------------
 
 st.set_page_config(layout="wide")
-st.title("Stock Predictor")
+st.title("StonksAI: Stock Predictor")
 
 # Load data & models (cached)
 stock_analysis   = load_stock_data()
