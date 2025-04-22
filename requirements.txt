@@ -86,7 +86,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 marshmallow==3.26.1
 matplotlib==3.9.2
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+# matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
 mdurl==0.1.2
 menuinst @ file:///Users/runner/miniforge3/conda-bld/menuinst_1702317138933/work
 ml-dtypes==0.4.1
